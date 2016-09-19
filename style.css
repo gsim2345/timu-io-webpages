@@ -1,14 +1,20 @@
-body {
+#mainPage {
   background-color: #4d90fe;
+
 }
+/* Navbar  CSS */
 
 .nav-wrapper {
   background-color: #4d90fe;
 }
+
 #logo {
   font-size: 22px;
   margin-left: 20px;
 }
+/* Navbar  CSS ends here */
+
+/* Main content on first page  CSS */
 
 #timu {
   font-size: 100px;
@@ -25,6 +31,9 @@ body {
   margin-top: 60px;
 }
 
+/* Main content on first page  CSS ends */
+
+/* Sticky footer CSS */
 body {
     display: flex;
     min-height: 100vh;
@@ -37,4 +46,16 @@ body {
 
   #footer {
     background-color: #4d90fe;
+    margin-top: 0px;
+    padding-top: 0px;
+  }
+
+  /* Sticky footer ends */
+
+  /* Journal page navbar CSS */
+
+
+  #greeting {
+    margin-left: 20px;
+    font-size: 25px;
   }
