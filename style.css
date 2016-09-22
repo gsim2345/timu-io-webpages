@@ -1,16 +1,13 @@
 
 /* Navbar  CSS */
 
-
-
 #logo {
   font-size: 22px;
   margin-left: 20px;
 }
-/* Navbar  CSS ends here */
+
 
 /* Main content on first page  CSS */
-
 #timu {
   font-size: 100px;
   font-weight: 400;
@@ -26,7 +23,6 @@
   margin-top: 60px;
 }
 
-/* Main content on first page  CSS ends */
 
 /* Sticky footer CSS */
 body {
@@ -38,18 +34,16 @@ body {
   main {
     flex: 1 0 auto;
   }
-
-
   /* Sticky footer ends */
 
+
   /* Journal page navbar CSS */
-
-
   #greeting {
     margin-left: 20px;
     font-size: 25px;
   }
 
+  /* Journal page CSS */
   .journalFirstRow {
     margin-top: 25px;
   }
@@ -61,9 +55,12 @@ body {
     height:400px;
   }
 
-  .activity {
+  /* skillset page CSS */
+
+   #searchBar {
+     margin-top: 30px;
    }
 
-   #searchbar {
-     margin-top: 30px;
+   #first {
+     width: 100%;
    }
