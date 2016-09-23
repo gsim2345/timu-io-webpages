@@ -61,6 +61,19 @@ body {
      margin-top: 30px;
    }
 
-   #first {
-     width: 100%;
+   /* topskills page CSS */
+   .firstRow {
+     margin-top: 40px;
+   }
+
+   .topskillsImage {
+     margin-top: 30px;
+   }
+
+   #teamMates {
+     margin-top: 40px;
+   }
+
+   .topskillsTeam {
+     margin-top: 40px;
    }
